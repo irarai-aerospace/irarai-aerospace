@@ -1,5 +1,3 @@
-# Code for Website
-
 Ira's Portfolio Website
 - **Home Page**: Provides an introduction and links to various sections.
 - **Projects Section**: Highlights completed and ongoing projects with descriptions.
